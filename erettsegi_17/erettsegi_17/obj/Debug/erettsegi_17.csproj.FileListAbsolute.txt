@@ -1,0 +1,7 @@
+c:\users\hahnr\source\repos\erettsegi_17\erettsegi_17\bin\Debug\erettsegi_17.exe.config
+c:\users\hahnr\source\repos\erettsegi_17\erettsegi_17\bin\Debug\erettsegi_17.exe
+c:\users\hahnr\source\repos\erettsegi_17\erettsegi_17\bin\Debug\erettsegi_17.pdb
+c:\users\hahnr\source\repos\erettsegi_17\erettsegi_17\obj\Debug\erettsegi_17.csprojResolveAssemblyReference.cache
+c:\users\hahnr\source\repos\erettsegi_17\erettsegi_17\obj\Debug\erettsegi_17.csproj.CoreCompileInputs.cache
+c:\users\hahnr\source\repos\erettsegi_17\erettsegi_17\obj\Debug\erettsegi_17.exe
+c:\users\hahnr\source\repos\erettsegi_17\erettsegi_17\obj\Debug\erettsegi_17.pdb
